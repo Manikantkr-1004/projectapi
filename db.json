@@ -1,12 +1,14 @@
 {
   "lucknow": [
     {
+      "id": 1,
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Hawa_Mahal_east_facade_%2814-07-2022%29.jpg",
       "name": "Jaipur Hawa Mahal",
       "price": 500,
       "rating": 4.0
     },
     {
+      "id": 2,
       "image": "https://www.planetware.com/photos-large/IND/india-top-attractions-taj-mahal.jpg",
       "name": "UP Taj Mahal",
       "price": 800,
@@ -15,12 +17,14 @@
   ],
   "dubai": [
     {
+      "id": 1,
       "image": "https://media.istockphoto.com/id/183342824/photo/stylized-aerial-view-of-dubai-city.jpg?s=612x612&w=0&k=20&c=outZOT9DOF6lRhp9S6pXY-FHVt1_9yW3e4ToE2-S1N0=",
       "name": "Dubai Burj Khalifa",
       "price": 1000,
       "rating": 4.5
     },
     {
+      "id": 2,
       "image": "https://media.istockphoto.com/id/472957466/photo/burj-al-arab-hotel-and-a-marina-dubai.jpg?s=612x612&w=0&k=20&c=fWyV5YhEMqF0dfTQcoRR3xwhOFvls7n_pof73qKpiWI=",
       "name": "Dubai Burj al arab",
       "price": 1500,
