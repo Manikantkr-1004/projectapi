@@ -1,34 +1,102 @@
 {
   "lucknow": [
     {
-      "id": 1,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Hawa_Mahal_east_facade_%2814-07-2022%29.jpg",
-      "name": "Jaipur Hawa Mahal",
-      "price": 500,
-      "rating": 4.0
-    },
-    {
-      "id": 2,
-      "image": "https://www.planetware.com/photos-large/IND/india-top-attractions-taj-mahal.jpg",
-      "name": "UP Taj Mahal",
-      "price": 800,
-      "rating": 4.7
-    }
+    "id": 1,
+    "image": "https://res.cloudinary.com/thrillophilia/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_auto,q_auto/v1/filestore/am0iphoxbdmmkpt7lebhatcmhphf_OBLU-Xperience-Ailafushi-Aerials-and-Generic-X360-Pool-Bar-Aerial-View.jpg",
+    "name": "Ailafushi Resort, Maldives",
+    "price": "999",
+    "detail": "This Ailafushi Resort is one of the best resort of the Maldives where you can enjoy with family.",
+    "rating": "4.3"
+  },
+  {
+    "id": 2,
+    "image": "https://res.cloudinary.com/thrillophilia/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_auto,q_auto/v1/filestore/b02qjxlbit5pwe7074aqq0c3484g_193.jpg",
+    "name": "Malahini Kuda Bandos Resort, Maldives",
+    "price": "1199",
+    "detail": "This Malahini Kuda Bandos Resort is the best resort for couples and honeymoon.",
+    "rating": "4.7"
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-kvnHUszwGGk/XOlMiDDupiI/AAAAAAACgbs/2sGnUQIkKdIEANcRywcWIQZ9mRyNuHfbwCLcBGAs/s1600/DSC03723-002.jpg",
+    "name": "Sun Siyam Olhuveli, Maldives",
+    "price": "770",
+    "detail": "You can do surfing and most of fun activities here with children and also you can take fun in air",
+    "rating": "4.5",
+    "id": 3
+  },
+  {
+    "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/6608967321242353-140639ca066611eca9520a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;80,0&output-format=jpg",
+    "name": "Hudhuran Fushi Maldives",
+    "price": "1300",
+    "detail": "We can say it is the most luxurious resort in maldives, here you will get vip services and most facilities.",
+    "rating": "4.9",
+    "id": 4
+  },
+  {
+    "image": "https://www.paradise-islandmaldives.com/storage/media/1437/conversions/01Nov18_Paradise_1073-large.jpg",
+    "name": "Paradise Island Resort Maldives",
+    "price": "1999",
+    "detail": "This is the real paradise of earth which is paradise island of maldives , here you feel paradising like you get a lots of peacefull places.",
+    "rating": "5.0",
+    "id": 5
+  },
+  {
+    "image": "https://images.trvl-media.com/lodging/18000000/17920000/17917900/17917846/28a8cb8a.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
+    "name": "Embudu Village Madives",
+    "price": "1100",
+    "detail": "This is the smallest village of maldives but we can say, it is the most beautiful places so please come one time and get feel peace.",
+    "rating": "4.6",
+    "id": 6
+  }
   ],
   "dubai": [
     {
-      "id": 1,
-      "image": "https://media.istockphoto.com/id/183342824/photo/stylized-aerial-view-of-dubai-city.jpg?s=612x612&w=0&k=20&c=outZOT9DOF6lRhp9S6pXY-FHVt1_9yW3e4ToE2-S1N0=",
-      "name": "Dubai Burj Khalifa",
-      "price": 1000,
-      "rating": 4.5
-    },
-    {
-      "id": 2,
-      "image": "https://media.istockphoto.com/id/472957466/photo/burj-al-arab-hotel-and-a-marina-dubai.jpg?s=612x612&w=0&k=20&c=fWyV5YhEMqF0dfTQcoRR3xwhOFvls7n_pof73qKpiWI=",
-      "name": "Dubai Burj al arab",
-      "price": 1500,
-      "rating": 5.0
-    }
+    "id": 1,
+    "image": "https://media.istockphoto.com/id/183342824/photo/stylized-aerial-view-of-dubai-city.jpg?s=612x612&w=0&k=20&c=outZOT9DOF6lRhp9S6pXY-FHVt1_9yW3e4ToE2-S1N0=",
+    "name": "Dubai Burj Khalifa",
+    "price": 1000,
+    "detail": "This is the tallest building of world and also it is the most popular tourist place of dubai.",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "image": "https://media.istockphoto.com/id/472957466/photo/burj-al-arab-hotel-and-a-marina-dubai.jpg?s=612x612&w=0&k=20&c=fWyV5YhEMqF0dfTQcoRR3xwhOFvls7n_pof73qKpiWI=",
+    "name": "Dubai Burj al arab",
+    "price": "1500",
+    "detail": "This is one of the 7star hotel of this world, here you will get vip services and lots of activities and king's feel.",
+    "rating": "5.0"
+  },
+  {
+    "image": "https://img.veenaworld.com/wp-content/uploads/2021/08/Dubai-Miracle-Garden-Timings-Location-and-Tickets-scaled.jpg",
+    "name": "Dubai Miracle Garden",
+    "price": "1299",
+    "detail": "This is the biggest beautiful garden of world in dubai, here you feel like paradise and get lots of diffrent-different flowers and manythings.",
+    "rating": "4.8",
+    "id": 3
+  },
+  {
+    "image": "https://www.artnews.com/wp-content/uploads/2022/05/Museum-of-Future-Exterior-3.jpg?w=1200",
+    "name": "Future of Museum Dubai",
+    "price": "2100",
+    "detail": "This is one of the future meseum of world where you will come to know the idea about of our humans future, how will i live.",
+    "rating": "5.0",
+    "id": 4
+  },
+  {
+    "image": "https://images.pexels.com/photos/4612430/pexels-photo-4612430.png?cs=srgb&dl=pexels-denys-gromov-4612430.jpg&fm=jpg",
+    "name": "Dubai Frame",
+    "price": "988",
+    "detail": "This is the frame of dubai, we can say and also a biggest tourist place of dubai so please visit one time and i sure it would be worthy.",
+    "rating": "4.5",
+    "id": 5
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0a/15/13/e5/dubai-aquarium-underwater.jpg",
+    "name": "Dubai Aquarium & Underwater Zoo",
+    "price": "2200",
+    "detail": "This is very beautiful underwater zoo aquarium where you feel like you are in under sea and here you can see lots of fishes and his species.",
+    "rating": "5.0",
+    "id": 6
+  }
   ]
 }
